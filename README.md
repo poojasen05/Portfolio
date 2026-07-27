@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date:25/07/2024
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -48,6 +48,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+## HTML CODE:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -164,6 +165,9 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
+```
+## CSS CODE:
+```
 * {
   margin: 0;
   padding: 0;
