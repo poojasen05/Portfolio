@@ -48,6 +48,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -349,6 +350,7 @@ footer {
   font-size: 0.9rem;
   opacity: 0.8;
 }
+```
 
 
 ## OUTPUT
